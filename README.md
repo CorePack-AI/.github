@@ -1,3 +1,4 @@
+#.github
 
 <div align="center">
   <img src="https://corepackai.com/logo.png" alt="CorePack AI Logo" width="120" height="120" />
