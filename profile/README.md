@@ -1,5 +1,3 @@
-# .github
-
 <div align="center">
   <img src="https://corepackai.com/logo.png" alt="CorePack AI Logo" width="120" height="120" />
   <h1>CorePack AI</h1>
@@ -33,7 +31,7 @@ Our mission is to turn "Context" into a transferable, versioned, and standardize
 
 ## ⚡ The Solution: Universal Context Protocol (UCP)
 
-Standardization is the answer. Just as [package.json](file:///c:/Users/Nikhil/Desktop/contextai/cli/package.json) standardized dependencies, the **Universal Context Protocol (UCP)** standardizes agentic memory.
+Standardization is the answer. Just as package.json standardized dependencies, the **Universal Context Protocol (UCP)** standardizes agentic memory.
 
 - **File-System Based**: Context lives in your repo (`.ai/`), not in a black-box cloud.
 - **Agent Agnostic**: Works with *any* AI tool that can read files—Cursor, Windsurf, Copilot, LangChain, etc.
