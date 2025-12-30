@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://corepackai.com/logo.png" alt="CorePack AI Logo" width="120" height="120" />
-  <h1>CorePack AI</h1>
+  <h1>CorePack AI™</h1>
   <p><strong>The npm for AI Context.</strong></p>
   <p>Building the open standard for agentic memory and the shared brain for software.</p>
 
@@ -13,67 +13,103 @@
 
 ## 🔮 The Vision
 
-We believe that **Intelligence should be installed, not just prompted.**
+**Intelligence should be installed, not just prompted.**
 
-Today, AI development is stuck in the "Amnesic Era." Every time you open ChatGPT, Claude, or Cursor, you start from zero. You paste snippets, explain your architecture, and repeat your rules. When the chat ends, that knowledge evaporates.
+AI development today is stuck in the *Amnesic Era*.  
+Every session resets. Every tool forgets. Every agent relearns the same truths.
 
-**We are building the persistent memory layer for the AI age.**
+I am building the **persistent memory layer for the AI age**.
 
-Our mission is to turn "Context" into a transferable, versioned, and standardized asset—just like code. We envision a future where downloading a repository also downloads the *intelligence* needed to understand it.
+CorePack AI turns *context* into a **transferable, versioned, and standardized asset**—just like code.  
+Clone a repository, and you should clone the intelligence required to understand it.
 
 ---
 
 ## 🛑 The Problem: Amnesic Agents
 
-- **Siloed Knowledge**: What you teach Claude doesn't transfer to Cursor. What you explain to Copilot is lost to Windsurf.
-- **Repetitive Prompting**: Developers waste hours re-explaining typical patterns, tech stacks, and project rules.
-- **Vendor Lock-in**: Proprietary memory systems lock your data into their specific ecosystem.
+- **Siloed Knowledge**  
+  What you teach one AI tool never transfers to another.
 
-## ⚡ The Solution: Universal Context Protocol (UCP)
+- **Repetitive Prompting**  
+  Developers waste hours re-explaining architecture, rules, and patterns.
 
-Standardization is the answer. Just as package.json standardized dependencies, the **Universal Context Protocol (UCP)** standardizes agentic memory.
+- **Vendor Lock-in**  
+  Memory lives in proprietary clouds, not in your codebase.
 
-- **File-System Based**: Context lives in your repo (`.ai/`), not in a black-box cloud.
-- **Agent Agnostic**: Works with *any* AI tool that can read files—Cursor, Windsurf, Copilot, LangChain, etc.
-- **Installable**: `npx corepackai install @corepackai/ucp` instantly gives your agent architectural understanding.
+AI tools are powerful—but they have no long-term memory you control.
+
+---
+
+## ⚡ The Solution: Unified Context Protocol (UCP)
+
+Standardization is the unlock.
+
+Just as `package.json` standardized dependencies,  
+the **Unified Context Protocol (UCP)** standardizes agentic context.
+
+- **File-System Native**  
+  Context lives inside your repo (`.ai/`), not in black-box servers.
+
+- **Agent-Agnostic**  
+  Works with any AI that can read files: Cursor, Windsurf, Copilot, LangChain, etc.
+
+- **Installable Intelligence**
+  ```bash
+  npx corepackai install @corepackai/ucp
+  ```
 
 ---
 
 ## 🛠️ The CorePack Platform
 
-We are building the ecosystem to support this standard:
-
 ### 1. The Registry
-A centralized marketplace for Intelligence. Discover "Packs" for:
-- **Frameworks**: Next.js, Supabase, Tailwind
-- **Patterns**: Clean Architecture, Repository Pattern
-- **Languages**: TypeScript, Rust, Python
+A marketplace for reusable context packs:
+
+- **Frameworks**: Next.js, Supabase, Tailwind  
+- **Patterns**: Clean Architecture, Repository Pattern  
+- **Languages**: TypeScript, Python, Rust
+
+---
 
 ### 2. The CLI
-The toolchain for context management.
+Tooling for context lifecycle management.
+
 ```bash
-# Install architectural patterns instantly
+# Install architectural context
 npx corepackai install @patterns/clean-architecture
 
-# Verify your context integrity
+# Verify context integrity
 npx corepackai doctor
 ```
 
+---
+
 ### 3. The Community
-We are an open collective of "Context Engineers"—developers who specialize in codifying knowledge. We are defining the specs, building the packs, and creating the tools that bridge the gap between human intent and machine execution.
+An open space for builders exploring agentic memory,  
+context systems, and human–AI collaboration.
 
 ---
 
 ## 🤝 Join the Movement
 
-We are looking for builders, thinkers, and early adopters to help define the standard.
+- Manifesto: https://corepackai.com/blog/manifesto  
+- Docs: https://corepackai.com/docs  
+- Discord: https://discord.gg/4eebttHFnm  
 
-- **[Read the Manifesto](https://corepackai.com/blog/manifesto)**: Understand the philosophy behind UCP.
-- **[Explore the Docs](https://corepackai.com/docs)**: Learn how to build your first Context Pack.
-- **[Join Discord](https://discord.gg/4eebttHFnm)**: Discuss specs, share packs, and meet the team.
+---
 
-<br />
+## ⚖️ Legal & IP Notice
+
+© 2025 CorePack AI™. All rights reserved.  
+Authored by Breeze (https://github.com/breeznik).
+
+CorePack AI™ is a name and brand claimed by the author.  
+This repository and its contents constitute original work and prior art.  
+No permission is granted to use, copy, modify, or distribute this material  
+or branding without explicit written consent from the author.
+
+---
 
 <div align="center">
-  <sub>Built with ❤️ by the Context Engineers at CorePack AI.</sub>
+  <sub>Built with intent by the creator of CorePack AI™.</sub>
 </div>
